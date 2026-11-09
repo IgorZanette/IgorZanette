@@ -31,7 +31,7 @@
 ### Projeto em destaque
 
 <a href="https://github.com/IgorZanette/SIRAS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IgorZanette&repo=SIRAS&theme=transparent&hide_border=true" alt="SIRAS">
+  <img src="https://img.shields.io/badge/Ver_o_reposit%C3%B3rio-SIRAS-6CC72A?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do SIRAS">
 </a>
 
 **SIRAS: Sistema de Interpretação e Recomendação Agronômica de Solo**
@@ -64,8 +64,8 @@ Sistema especialista baseado em regras que interpreta a análise de solo, recome
 ### Estatísticas
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IgorZanette&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorZanette&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IgorZanette&theme=github_dark" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IgorZanette&theme=github_dark" alt="Linguagens mais usadas">
 </p>
 
 <p>
