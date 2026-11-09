@@ -1,6 +1,6 @@
 ## Igor Zanette
 
-Estudante de Ciência da Computação na Universidade de Passo Fundo (UPF), com conclusão em 2026. Desenvolvimento web e sistemas baseados em regras.
+Estudante de Ciência da Computação na Universidade de Passo Fundo (UPF), com conclusão em 2026. FullStack
 
 <p><a href="https://www.linkedin.com/in/igor-zanette-2a8417347/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:igorzanette2002@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a> <a href="https://www.instagram.com/_izanette/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a></p>
 
