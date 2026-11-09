@@ -4,7 +4,7 @@ Estudante de Ciência da Computação na Universidade de Passo Fundo (UPF), com 
 
 <p><a href="https://www.linkedin.com/in/igor-zanette-2a8417347/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:igorzanette2002@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a> <a href="https://www.instagram.com/_izanette/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a></p>
 
-**Projeto:** [SIRAS](https://github.com/IgorZanette/SIRAS), sistema especialista para interpretação de análise de solo e recomendação de calagem e adubação, segundo o Manual do RS e SC (2016). Trabalho de Conclusão de Curso.
+**Projeto em destaque:** [SIRAS](https://github.com/IgorZanette/SIRAS), sistema especialista para interpretação de análise de solo e recomendação de calagem e adubação, segundo o Manual do RS e SC (2016). Trabalho de Conclusão de Curso.
 
 **Tecnologias**
 
